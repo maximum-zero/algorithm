@@ -1,4 +1,4 @@
-package org.maximum0.math;
+package org.maximum0.baekjoon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

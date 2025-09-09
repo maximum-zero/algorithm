@@ -1,4 +1,4 @@
-package org.maximum0.string;
+package org.maximum0.baekjoon;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
