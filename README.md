@@ -5,7 +5,6 @@
 
 ### 🧩 Algorithm
 - 유형 중심 정리
-- (투포인터 / 슬라이딩 윈도우 / 구간합 등)
 - 핵심 패턴 + 실수 기록
 
 ### 🗄️ SQL
@@ -15,9 +14,16 @@
 ---
 
 ## 🧩 Algorithm
+- [2026-04-07](notes/algorithm/2026-04-07.md)
+- [2026-04-06](notes/algorithm/2026-04-06.md)
+- [2026-04-05](notes/algorithm/2026-04-05.md)
+- [2026-04-03](notes/algorithm/2026-04-03.md)
 - [2026-04-01](notes/algorithm/2026-04-01.md)
 - [2026-03-31](notes/algorithm/2026-03-31.md)
 - [2026-03-30](notes/algorithm/2026-03-30.md)
 
 ## 🗄️ SQL
-- (추가 예정)
+- [2026-04-07](notes/sql/2026-04-07.md)
+- [2026-04-06](notes/sql/2026-04-06.md)
+- [2026-04-03](notes/sql/2026-04-03.md)
+- [2026-04-01](notes/sql/2026-04-01.md)
