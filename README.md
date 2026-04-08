@@ -14,6 +14,7 @@
 ---
 
 ## 🧩 Algorithm
+- [2026-04-08](notes/algorithm/2026-04-08.md)
 - [2026-04-07](notes/algorithm/2026-04-07.md)
 - [2026-04-06](notes/algorithm/2026-04-06.md)
 - [2026-04-05](notes/algorithm/2026-04-05.md)
@@ -23,6 +24,7 @@
 - [2026-03-30](notes/algorithm/2026-03-30.md)
 
 ## 🗄️ SQL
+- [2026-04-08](notes/sql/2026-04-08.md)
 - [2026-04-07](notes/sql/2026-04-07.md)
 - [2026-04-06](notes/sql/2026-04-06.md)
 - [2026-04-03](notes/sql/2026-04-03.md)
