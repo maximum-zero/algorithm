@@ -1,4 +1,4 @@
-package org.maximum0.solve;
+package org.maximum0.hash;
 
 /*
 [문제 분석]
