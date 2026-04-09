@@ -1,4 +1,4 @@
-package org.maximum0.solve;
+package org.maximum0.binarysearch;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
