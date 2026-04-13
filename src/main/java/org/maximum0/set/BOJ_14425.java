@@ -1,4 +1,4 @@
-package org.maximum0.hash;
+package org.maximum0.set;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

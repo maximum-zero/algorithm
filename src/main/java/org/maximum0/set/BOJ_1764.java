@@ -1,37 +1,4 @@
-package org.maximum0.hash;
-
-/*
-[문제 분석]
-- 입력 크기: N <= 500_000
-- 자료 구조: 문자
-- 순서 중요: X
-- 연속 구간: X
-- 합 관련: X
-- 경우의 수: X
-- 음수 포함: X
-- 기타 특징:
-
-[알고리즘 선택]
-- 후보
-  1. Map
-  2. Set
-  3.
-
-- 제거
-  - Map : Key Value까지 필요 없어 보임. 중복이 없다고는 하지만, Set을 통해 조금 더 강화
-
-- 최종
-  - Set -> TreeSet (순번)
-
-[사용 근거]
-- 듣도 못한 사람과 보도 못한 사람의 중복의 개수와 목록 출력 (최초 듣도 못한 사람을 등록 후에 보도 못한 사람에서 있는지 확인)
--
-
-[결과]
-성공 / 실패
-원인
--
-*/
+package org.maximum0.set;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -42,13 +9,17 @@ import java.util.TreeSet;
 
 /*
 [유형]
--
+- Set (교집합)
+- 정렬 (TreeSet)
 
 [핵심]
--
+- HashSet으로 빠르게 contains
+- 공통 요소만 TreeSet에 저장
+- 자동 정렬
 
 [주의]
--
+- TreeSet을 조회용으로 쓰면 비효율
+
 */
 public class BOJ_1764 {
 

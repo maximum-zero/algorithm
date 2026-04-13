@@ -1,37 +1,4 @@
-package org.maximum0.hash;
-
-/*
-[문제 분석]
-- 입력 크기: -10,000,000 <= N <= 10,000,000
-- 자료 구조: 숫자
-- 순서 중요: O
-- 연속 구간: X
-- 합 관련: X
-- 경우의 수: O
-- 음수 포함: X
-- 기타 특징:
-
-[알고리즘 선택]
-- 후보
-  1. Map
-  2. Set
-  3.
-
-- 제거
-  - Map
-
-- 최종
-  - Set
-
-[사용 근거]
-- 교집합 찾는 문제 -> set (key value 도 아님)
--
-
-[결과]
-성공 / 실패
-원인
--
-*/
+package org.maximum0.set;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
