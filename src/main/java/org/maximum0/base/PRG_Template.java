@@ -43,10 +43,14 @@ package org.maximum0.base;
 [주의]
 -
 */
-public class Template {
+public class PRG_Template {
 
-    public static void main(String[] args) throws Exception {
-        // TODO
-
+    public static void main(String[] args) {
+        System.out.println(solution(6, new int[]{7, 10}));
     }
+
+    private static int solution(int n, int[] times) {
+        return 1;
+    }
+
 }
