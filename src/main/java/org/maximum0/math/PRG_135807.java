@@ -1,4 +1,4 @@
-package org.maximum0.solve;
+package org.maximum0.math;
 
 /*
 [유형]
